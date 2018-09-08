@@ -1,0 +1,23 @@
+{
+  "name": "awanadataobjects",
+  "version": "1.0.0",
+  "description": "This is a list of Awana data object ideas",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/andrewjrvs/AWANADataObjects.git"
+  },
+  "keywords": [
+    "AWANA",
+    "DataObjects"
+  ],
+  "author": "Andrew Jarvis",
+  "license": "SEE LICENSE IN LICENSE",
+  "bugs": {
+    "url": "https://github.com/andrewjrvs/AWANADataObjects/issues"
+  },
+  "homepage": "https://github.com/andrewjrvs/AWANADataObjects#readme"
+}
